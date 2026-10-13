@@ -2,6 +2,8 @@
 
 Refund é uma aplicação web simples para montar uma lista de despesas e visualizar o valor total de uma solicitação de reembolso. A interface está em português e apresenta valores no padrão brasileiro (R$).
 
+Este projeto tem foco em aprendizado e estudos, servindo como prática de desenvolvimento web com HTML, CSS e JavaScript.
+
 ## Funcionalidades
 
 - Informar o nome, a categoria e o valor de uma despesa.
